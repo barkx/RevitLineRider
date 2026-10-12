@@ -1,0 +1,8 @@
+title: "Demo\nTrack"
+tooltip: >-
+  Draws a long ready-to-ride course in the active view (jump, boosters,
+  rollers, tabletop, waves, big drop, climb to the FINISH summit), labels it,
+  sets the start point and opens the game zoomed in on the rider. Press Space.
+  Offers to remove older Line Rider lines; clicking it again replaces the
+  previous demo. Undo removes it.
+author: LUZ Team

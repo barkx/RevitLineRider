@@ -1,0 +1,6 @@
+title: Ride
+tooltip: >-
+  Line Rider in the active 2D view. Every detail line and model line in the view
+  becomes track; the sled is drawn live in the view (nothing is added to the model).
+  Space = play/pause, R = reset, F = flag, arrows = rewind/step, C = follow camera.
+author: LUZ Team

@@ -1,0 +1,9 @@
+# Python / editors / OS
+__pycache__/
+*.pyc
+.vs/
+.vscode/
+*.user
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,5 @@
+title: "Flip\nLines"
+tooltip: >-
+  Reverses the drawing direction of the selected lines. That flips the boost
+  direction of accelerator lines and the solid side of one-way lines.
+author: LUZ Team
